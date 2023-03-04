@@ -33,7 +33,7 @@
 
 *****
 > ## <h2 id="homework">📚作業連結區</h2>
-+ #### HW1
++ #### HW1 [https://github.com/ka911031/PL/blob/main/Task1.ipynb]
 + #### HW2
 + #### HW3
 + #### HW4
