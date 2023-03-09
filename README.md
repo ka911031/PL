@@ -14,7 +14,7 @@
   + ### [Project](#works)
   
   *****
-> ## <h2 id="notes">📝Studying =Notes</h2>
+> ## <h2 id="notes">📝Studying Notes</h2>
 + #### Week1
 
 + #### Week2
