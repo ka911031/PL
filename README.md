@@ -8,13 +8,13 @@
   + ### 系級:科技系2年級
   
 *****
-+ ## 各種連結:
-  + ### [課程筆記區](#notes)
-  + ### [作業連結區](#homework)
-  + ### [專題連結區](#works)
++ ## Links:
+  + ### [Studying Notes](#notes)
+  + ### [Homework](#homework)
+  + ### [Project](#works)
   
   *****
-> ## <h2 id="notes">📝課程筆記區</h2>
+> ## <h2 id="notes">📝Studying =Notes</h2>
 + #### Week1
 
 + #### Week2
@@ -32,11 +32,11 @@
 + #### Week8
 
 *****
-> ## <h2 id="homework">📚作業連結區</h2>
+> ## <h2 id="homework">📚Homework</h2>
 + #### [HW1](https://github.com/ka911031/PL/tree/main/HW1)
 + #### HW2
 + #### HW3
 + #### HW4
 + #### HW5
 *****
-> ### <h2 id="works">💼專題連結區</h2>
+> ### <h2 id="works">💼Project</h2>
