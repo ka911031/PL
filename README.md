@@ -34,7 +34,7 @@
 *****
 > ## <h2 id="homework">📚Homework</h2>
 + #### [HW1](https://github.com/ka911031/PL/tree/main/HW1)
-+ #### HW2
++ #### [HW2](https://github.com/ka911031/PL/tree/main/HW2)
 + #### HW3
 + #### HW4
 + #### HW5
