@@ -33,7 +33,7 @@
 
 *****
 > ## <h2 id="homework">📚Homework</h2>
-+ #### [HW1](https://github.com/ka911031/PL/tree/main/HW1)
++ #### [HW1](https://github.com/ka911031/PL/tree/main/HW1)  [Medium](https://medium.com/@41071221h/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%A9%9F%E8%BB%8A%E7%AB%8A%E7%9B%9C%E9%BB%9E%E4%BD%8D%E8%B3%87%E8%A8%8A-ba203241a362)
 + #### [HW2](https://github.com/ka911031/PL/tree/main/HW2)
 + #### [HW3](https://github.com/ka911031/PL/tree/main/HW3)
 + #### [HW4](https://github.com/ka911031/PL/tree/main/HW4)
